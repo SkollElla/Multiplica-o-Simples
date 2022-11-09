@@ -12,7 +12,5 @@ class Program
         b = int.Parse(Console.ReadLine());
         prodm = Convert.ToInt32(a * b);
         Console.WriteLine("O Produto da multiplicacao é igual a : " + prodm);
-     
-  ;
     }
 }
