@@ -1,0 +1,15 @@
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.csproj.AssemblyReference.cache
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.AssemblyInfoInputs.cache
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.AssemblyInfo.cs
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.csproj.CoreCompileInputs.cache
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\bin\Debug\net6.0\Multiplicação Simples.exe
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\bin\Debug\net6.0\Multiplicação Simples.deps.json
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\bin\Debug\net6.0\Multiplicação Simples.runtimeconfig.json
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\bin\Debug\net6.0\Multiplicação Simples.dll
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\bin\Debug\net6.0\Multiplicação Simples.pdb
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.dll
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\refint\Multiplicação Simples.dll
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.pdb
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\Multiplicação Simples.genruntimeconfig.cache
+C:\Users\pcent\source\repos\Multiplicacao_Simples\Multiplicação Simples\obj\Debug\net6.0\ref\Multiplicação Simples.dll
